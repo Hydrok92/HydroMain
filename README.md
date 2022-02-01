@@ -1,1 +1,1 @@
-<img src=img/Header_img.PNG> 
+<img src=img/Header_img.png> 
